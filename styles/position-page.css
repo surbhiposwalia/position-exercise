@@ -1,0 +1,62 @@
+.bg{
+	position: fixed; 
+  top: 0; 
+  left: 0;
+  /*background-size: cover;*/
+  width: 100%; 
+	
+  /* Preserve aspet ratio */
+
+}
+nav{
+	background-color: grey;
+	position:fixed;
+	width: 100%;
+	padding-left: 60px;
+	padding-right: 60px;
+
+}
+.img-circular{
+	
+ border-radius: 50%;
+ 
+    
+    width: 100px;
+    border: 1px solid black;
+ 
+}
+
+.links{
+	position:relative;
+	bottom: 40px;
+	left: 40px;
+
+}
+.displaycat{
+	position: absolute;
+	left: 100px;
+	top: 200px;
+	width: 200px;
+	height: 200px;
+
+
+}
+.displaydog{
+	position: absolute;
+	left: 700px;
+	top: 500px;
+	width: 200px;
+	height: 200px;
+}
+
+.displaybox{
+		position: relative;
+		left: 200px;
+		top: 300px;
+		width: 600px;
+		height: 300px;
+		border: 10px green dotted;
+}
+
+
+

@@ -1,0 +1,47 @@
+main{
+	font-size: 0;
+}
+.box{
+	width: 800px;
+		margin: auto;
+			font-size: 0;
+
+
+}
+.upperbox{
+
+ display: inline-block;
+
+	width: 50%;
+	height: 200px;
+border: 1px solid black;
+
+}
+.downbox
+{
+	
+ display: inline-block;
+	width: 33.33%;
+	height: 300px;
+border: 1px solid black;
+
+
+}
+.centered
+{
+	text-align: center;
+}
+.greenbox{
+	background-color: green;
+}
+.bluebox{
+	background-color: blue;
+
+}
+.greybox{
+	background-color: grey;
+}
+.blackbox{background-color: black;}
+.orangebox{
+	background-color: orange;
+}
